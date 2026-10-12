@@ -4,6 +4,9 @@ node_modules/
 # Caches
 .cache/
 .tmp-*/
+.thumbnails/
+.waveform-cache/
+.hyperframes/
 
 # OS
 .DS_Store

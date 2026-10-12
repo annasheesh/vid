@@ -1,16 +1,16 @@
 :root {
-  /* TODO: fill in your brand colors */
-  --brand-bg: ;
-  --brand-surface: ;
-  --brand-surface-2: ;
-  --brand-border: ;
-  --brand-accent: ;
-  --brand-accent-glow: ;
-  --brand-warn: ;
-  --brand-text: ;
-  --brand-text-dim: ;
+  /* Brand colors */
+  --brand-bg: #0a0a0f;
+  --brand-surface: #14141e;
+  --brand-surface-2: #1e1e2d;
+  --brand-border: #2a2a3c;
+  --brand-accent: #3b82f6;
+  --brand-accent-glow: rgba(59, 130, 246, 0.35);
+  --brand-warn: #f59e0b;
+  --brand-text: #ffffff;
+  --brand-text-dim: #94a3b8;
 
-  /* TODO: pick your typography */
-  --font-mono: ui-monospace, Menlo, monospace;
-  --font-display: system-ui, sans-serif;
+  /* Typography */
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-display: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }

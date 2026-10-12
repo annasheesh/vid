@@ -13,6 +13,7 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "hyperframes": "^0.8.149",
     "playwright": "^1.59.1"
   }
 }
